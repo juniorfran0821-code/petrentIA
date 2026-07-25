@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "nombre": "Max",
+    "raza": "Golden Retriever",
+    "tamaño": "Grande",
+    "precio": 8.50,
+    "descripcion": "Max es el compañero perfecto para un paseo largo. Le encanta correr, jugar y recibir cariño. Muy amigable con niños y adultos.",
+    "etiquetas": ["Energético", "Juguetón", "Amigable"],
+    "imagen": "/max.jpg",
+    "disponible": true,
+    "calificacion": 4.9,
+    "reseñas": 42
+  },
+  {
+    "id": 2,
+    "nombre": "Luna",
+    "raza": "Labrador Negro",
+    "tamaño": "Grande",
+    "precio": 7.00,
+    "descripcion": "Luna es tranquila y muy obediente. Ideal para caminatas relajadas por el parque. Se lleva bien con todo el mundo.",
+    "etiquetas": ["Tranquila", "Obediente", "Cariñosa"],
+    "imagen": "/luna.jpg",
+    "disponible": true,
+    "calificacion": 4.8,
+    "reseñas": 38
+  },
+  {
+    "id": 3,
+    "nombre": "Coco",
+    "raza": "Beagle",
+    "tamaño": "Mediano",
+    "precio": 6.00,
+    "descripcion": "Coco es curioso y explorador. Le encanta olfatear cada rincón del parque. Una aventura garantizada con él.",
+    "etiquetas": ["Curioso", "Explorador", "Alegre"],
+    "imagen": "/coco.jpg",
+    "disponible": true,
+    "calificacion": 4.7,
+    "reseñas": 29
+  },
+  {
+    "id": 4,
+    "nombre": "Bella",
+    "raza": "Poodle Toy",
+    "tamaño": "Pequeño",
+    "precio": 5.50,
+    "descripcion": "Bella es elegante e inteligente. Perfecta para paseos cortos. Muy bien entrenada y siempre limpia.",
+    "etiquetas": ["Inteligente", "Elegante", "Dócil"],
+    "imagen": "/bella.jpg",
+    "disponible": false,
+    "calificacion": 4.9,
+    "reseñas": 55
+  },
+  {
+    "id": 5,
+    "nombre": "Rocky",
+    "raza": "Bulldog Francés",
+    "tamaño": "Mediano",
+    "precio": 7.50,
+    "descripcion": "Rocky es sociable y muy gracioso. Sus expresiones alegrarán tu paseo. Ideal para sacar fotos.",
+    "etiquetas": ["Sociable", "Divertido", "Relajado"],
+    "imagen": "/rocky.jpg",
+    "disponible": true,
+    "calificacion": 4.6,
+    "reseñas": 33
+  },
+  {
+    "id": 6,
+    "nombre": "Mia",
+    "raza": "Shih Tzu",
+    "tamaño": "Pequeño",
+    "precio": 5.00,
+    "descripcion": "Mia es tierna y muy calmada. Perfecta para personas que quieren compañía suave y tranquila en sus caminatas.",
+    "etiquetas": ["Tierna", "Calmada", "Compañera"],
+    "imagen": "/mia.jpg",
+    "disponible": true,
+    "calificacion": 4.8,
+    "reseñas": 47
+  }
+]

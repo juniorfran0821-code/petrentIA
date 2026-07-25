@@ -1,0 +1,17 @@
+{
+  "carrito": {
+    "titulo": "🛒 Tu carrito",
+    "vacioMensaje": "Tu carrito está vacío",
+    "vacioIcono": "🐾",
+    "botonVerPerros": "Ver perros",
+    "botonAgregarMas": "Agregar más perros",
+    "botonConfirmar": "Confirmar reserva",
+    "labelTotal": "Total"
+  },
+  "confirmacion": {
+    "icono": "✓",
+    "titulo": "¡Reserva confirmada!",
+    "mensaje": "Tu paseo ha sido reservado con éxito. Recibirás un correo con los detalles del punto de encuentro.",
+    "botonVolver": "Volver al inicio"
+  }
+}

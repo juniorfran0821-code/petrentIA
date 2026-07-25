@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Jean Cedeño",
+    "correo": "jean@petrent.com",
+    "password": "1234",
+    "contrasena": "1234",
+    "rol": "admin"
+  },
+  {
+    "id": 2,
+    "nombre": "Leo Perez",
+    "correo": "leo@petrent.com",
+    "password": "5678",
+    "contrasena": "5678",
+    "rol": "usuario"
+  },
+  {
+    "id": 3,
+    "nombre": "María García",
+    "correo": "maria@petrent.com",
+    "password": "91011",
+    "contrasena": "91011",
+    "rol": "usuario"
+  }
+]
